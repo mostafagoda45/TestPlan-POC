@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taw-POC", "Taw-POC.csproj", "{F7EE2DE5-33C7-48ED-BE2E-3B78D273BA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{89E18172-8A68-4EC0-A253-801ACF8C5D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7EE2DE5-33C7-48ED-BE2E-3B78D273BA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EE2DE5-33C7-48ED-BE2E-3B78D273BA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EE2DE5-33C7-48ED-BE2E-3B78D273BA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EE2DE5-33C7-48ED-BE2E-3B78D273BA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E18172-8A68-4EC0-A253-801ACF8C5D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E18172-8A68-4EC0-A253-801ACF8C5D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E18172-8A68-4EC0-A253-801ACF8C5D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E18172-8A68-4EC0-A253-801ACF8C5D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245174B7-67DF-4C28-95C8-C35463EBEA62}
+	EndGlobalSection
+EndGlobal
